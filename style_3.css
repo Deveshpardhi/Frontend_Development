@@ -1,0 +1,36 @@
+#div{
+    height: 500px;
+    width: 200px;
+    border: 5px solid ;
+    border-color: black;
+    padding: 25px;
+    margin: 25px;
+    padding-bottom: 35px;
+}
+
+#div1{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    background-color: orange;
+}
+#div2{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    background-color: antiquewhite;
+}
+#div3{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin-left: 20px;
+    background-color: green;
+}
