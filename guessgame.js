@@ -2,7 +2,7 @@ const max=prompt("Enter  max number");
 const random=Math.floor(Math.random()*max) +1;
 let guess=prompt("Guess a number");
 
-
+// 
 while(true){
     if(guess=="Quit"){
         console.log("You quit");
