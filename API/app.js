@@ -27,7 +27,7 @@ async function getFactsDog() {
         let res = await axios.get(url2);
         return res.data.message;
     } catch (e) {
-        console.log("Error -", e);
+        console.log("Errors -", e);
         return "Not found";
     }
 }
