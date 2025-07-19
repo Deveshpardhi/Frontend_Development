@@ -28,6 +28,6 @@ ul.addEventListener("click",function(event){
 //     del.addEventListener("click",function(){
 //         let par=this.parentElement;
 //         console.log(par);
-//         par.remove();
+//         par.remove()
 //     });
 // }
