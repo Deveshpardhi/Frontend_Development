@@ -7,7 +7,7 @@ let level=0;
 
 document.addEventListener("keypress",function(){
     if(started==false){
-        console.log("Game started");
+        console.log("Game Started");
         started=true;
 
         levelUp();
