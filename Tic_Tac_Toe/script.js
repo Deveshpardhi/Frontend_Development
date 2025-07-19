@@ -130,3 +130,4 @@ btnRef.forEach((element, index) => {
 });
 
 window.onload = enableButtons;
+//
