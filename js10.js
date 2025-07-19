@@ -17,4 +17,3 @@ function getRondomColor(){
     let color=`rgb(${red},${green},${blue})`;
     return color;
 }
-// 
