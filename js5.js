@@ -5,4 +5,3 @@ const post={
     repost:100,
     tags:["Google","Microsoft","Apple"]
 };
-// 
